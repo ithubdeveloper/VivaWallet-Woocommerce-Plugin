@@ -10,16 +10,16 @@ Securly Checkout with Saved Card.
 
 Securly Save the Card Data.
 
-What information you need to set in the Plugin.
+*Information you need to set in the Plugin.*
 
-Title Show on the Checkout Page: Like Debit/Credit Card/
+1)Title Show on the Checkout Page: Like Debit/Credit Card/
 
-Description Show on Card Box: Like Pay Securely with debit/credit card.
+2)Description Show on Card Box: Like Pay Securely with debit/credit card.
 
-VivaWallet Merchant ID.
+3)VivaWallet Merchant ID.
 
-VivaWallet API Key.
+4)VivaWallet API Key.
 
-VivaWallet Client ID.
+5)VivaWallet Client ID.
 
-VivaWallet Client Secret.
+6)VivaWallet Client Secret.
