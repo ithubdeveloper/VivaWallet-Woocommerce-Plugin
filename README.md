@@ -10,7 +10,7 @@ Securly Checkout with Saved Card.
 
 Securly Save the Card Data.
 
-*Information you need to set in the Plugin.*
+**Information you need to set in the Plugin**
 
 1)Title Show on the Checkout Page: Like Debit/Credit Card/
 
